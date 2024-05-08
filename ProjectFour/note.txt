@@ -1,1 +1,1 @@
-the file order would be the python file read originally from wordsSimple, then it made output.txt when encrypting, and then we take that as an input file, and use the decrypt input and get input.txt
+the file order would be the python file read originally from wordsSimple, then it made output.txt when encrypting, and then we take that as an input file, and use the decrypt function and get input.txt
