@@ -1,0 +1,2 @@
+This is a basic sentence to be encrypted. Hopefully their programs will work so it is easier on me!
+This is a second line in the input file.  I want cookies & milk.
